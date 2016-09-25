@@ -1,13 +1,13 @@
 # C++ Style Guide
 ## Table of contents:
-1.  [Naming](#Naming)
-    1.  [Variable names](#Variable-names)
-    2.  [Function names](#Function-names)
-    3.  [Constants](#Constants)
-    4.  [Type names](#Type-names)
-    5.  [File names](#File-names)
-2.  [Formatting](#Formatting)
-    1.  [Spaces vs. Tabs](#Spaces-vs.-Tabs)
+1.  [Naming](#naming)
+    1.  [Variable names](#variable-names)
+    2.  [Function names](#function-names)
+    3.  [Constants](#constants)
+    4.  [Type names](#type-names)
+    5.  [File names](#file-names)
+2.  [Formatting](#formatting)
+    1.  [Spaces vs. Tabs](#spaces-vs-tabs)
 
 ## Naming
 ### Variable names
