@@ -28,7 +28,7 @@ int getQuantityOfDeadMemes();
 ```
 
 ### Constants
-All uppercase with underscoresw:
+All uppercase with underscores:
 ```c++
 const int WINDOW_WIDTH = 640, WINDOW_HEIGHT = 480;
 const int DAYS_IN_A_WEEK = 7;
