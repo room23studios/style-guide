@@ -2,4 +2,4 @@
 This repository contains style guides for variety of languages used by Room 23 Studios.
 
 ## Style guides
--   [C++](cpp.draft.md)
+-   [C++](cpp.md)
