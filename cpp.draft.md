@@ -28,29 +28,29 @@ int getQuantityOfDeadMemes();
 ```
 
 ### Constants
-All uppercase with underscoresw:
+All uppercase with underscores:
 ```c++
 const int WINDOW_WIDTH = 640, WINDOW_HEIGHT = 480;
 const int DAYS_IN_A_WEEK = 7;
 ```
 
-###Type names
+### Type names
 For type names we use Pascal case:
-```cpp
+```c++
 class MyNewClass;
 struct Vector2f;
 enum CharacterClass;
 // etc...
 ```
 
-###File names
+### File names
 Filenames should be all lowercase and can include underscores:
 ```
 foo_bar.cpp
 ```
 
-##Formatting
-###Spaces vs. Tabs
+## Formatting
+### Spaces vs. Tabs
 Tabs for indentation (4 spaces width), spaces for aligning.
 
 ```c++
