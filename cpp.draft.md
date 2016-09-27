@@ -50,11 +50,26 @@ foo_bar.cpp
 ```
 
 ## Formatting
+### Curly brackets location
+We use curly brackets as following (this applies to loops, switch statements and functions as well):
+```c++
+if() {
+    // ...
+}
+```
+
 ### Spaces vs. Tabs
 Tabs for indentation (4 spaces width), spaces for aligning.
 
+### Line length
+Keep the line length 120 characters max.
+
+### Operator spacing
+We use spacing for all operators excluding the following:
+`(), ;`
+
+### Pointers declaration
+Space on right side of * operator like this:
 ```c++
-if (q || p) {
-    cout << "a string";
-}
+char* thePointer;
 ```
