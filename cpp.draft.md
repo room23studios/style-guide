@@ -36,7 +36,7 @@ const int DAYS_IN_A_WEEK = 7;
 
 ### Type names
 For type names we use Pascal case:
-```cpp
+```c++
 class MyNewClass;
 struct Vector2f;
 enum CharacterClass;
