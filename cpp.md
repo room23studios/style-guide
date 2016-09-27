@@ -7,7 +7,11 @@
     4.  [Type names](#type-names)
     5.  [File names](#file-names)
 2.  [Formatting](#formatting)
-    1.  [Spaces vs. Tabs](#spaces-vs-tabs)
+    1.  [Curly brackets location](#curly-brackets-location)
+    2.  [Spaces vs. Tabs](#spaces-vs-tabs)
+    3.  [Line length](#line-length)
+    4.  [Operator spacing](#operator-spacing)
+    5.  [Pointers declaration](#pointers-declaration)
 
 ## Naming
 ### Variable names
