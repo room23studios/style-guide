@@ -34,7 +34,7 @@ const int WINDOW_WIDTH = 640, WINDOW_HEIGHT = 480;
 const int DAYS_IN_A_WEEK = 7;
 ```
 
-###Type names
+### Type names
 For type names we use Pascal case:
 ```cpp
 class MyNewClass;
@@ -43,14 +43,14 @@ enum CharacterClass;
 // etc...
 ```
 
-###File names
+### File names
 Filenames should be all lowercase and can include underscores:
 ```
 foo_bar.cpp
 ```
 
-##Formatting
-###Spaces vs. Tabs
+## Formatting
+### Spaces vs. Tabs
 Tabs for indentation (4 spaces width), spaces for aligning.
 
 ```c++
